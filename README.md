@@ -1,6 +1,6 @@
 # Hi there, I'm Dat 👋
 
-CS student at **San Jose State University** building intelligent AI systems.
+CS student at **San Jose State University** building full-stack intelligent AI systems.
 Currently seeking internships in **Software Engineering** or **AI Engineering**.
 
 ---
