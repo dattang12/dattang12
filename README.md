@@ -3,6 +3,8 @@
 CS student at **San Jose State University** building full-stack intelligent AI systems.
 Currently seeking internships in **Software Engineering** or **AI Engineering**.
 
+I am happy to relocate to everywhere if I have opportunities :)
+
 ---
 
 ## 🤖 What I'm working on
