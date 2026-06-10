@@ -43,8 +43,16 @@ that solve real-world problems.
 
 ## 🏢 Organizations
 
-[![Leechyapporg](https://img.shields.io/badge/Leechyapporg-181717?style=flat&logo=github&logoColor=white)](https://github.com/Leechyapporg)
-[![MyRecommendation](https://img.shields.io/badge/MyRecommendation-181717?style=flat&logo=github&logoColor=white)](https://github.com/MyRecommendation)
+<p>
+  <a href="https://github.com/Leechyapporg">
+    <img src="https://avatars.githubusercontent.com/Leechyapporg" width="50" height="50" style="border-radius:50%" alt="Leechyapporg"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MyRecommendation">
+    <img src="https://avatars.githubusercontent.com/MyRecommendation" width="50" height="50" style="border-radius:50%" alt="MyRecommendation"/>
+  </a>
+  &nbsp;
+</p>
 
 ## 📫 Connect with me
 
