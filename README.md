@@ -15,7 +15,7 @@ that solve real-world problems.
 
 ## 🔑 Key Projects
 
-- **🏆 Top 3 Finalist at Stanford x GoogleDeepmind Hackathon – ApplyWisely**: AI-powered job application tracker that extracts job details from screenshots using Gemini 2.0 Flash and auto-updates statuses via Gmail Agent
+- **🏆 Top 3 Finalist at Stanford x GoogleDeepmind Hackathon 2026 – ApplyWisely**: AI-powered job application tracker that extracts job details from screenshots using Gemini 2.0 Flash and auto-updates statuses via Gmail Agent
 
 - **JobMatching**: Semantic job matching engine using OpenAI embeddings + LangChain RAG pipeline, processing 750+ real listings via Adzuna API
 
