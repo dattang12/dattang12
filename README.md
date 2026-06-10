@@ -4,6 +4,15 @@ CS student at **San Jose State University** building full-stack intelligent AI s
 Currently seeking internships in **Software Engineering** or **AI Engineering**.
 
 ---
+
+## 🤖 What I'm working on
+
+Building **AI Agent & Multi-Agent systems** — designing autonomous
+workflows, tool-use pipelines, and orchestrated agent frameworks
+that solve real-world problems.
+
+---
+
 ## 🔑 Key Projects
 
 - **🏆 Top 3 Finalist – ApplyWisely**: AI-powered job application tracker that extracts job details from screenshots using Gemini 2.0 Flash and auto-updates statuses via Gmail Agent
@@ -13,13 +22,6 @@ Currently seeking internships in **Software Engineering** or **AI Engineering**.
 - **NemotronIQ**: Multi-agent company intelligence system — 5 autonomous agents deliver BUY/HOLD/SELL decisions in 30 seconds
 
 - **InsightRAG**: Hierarchical RAG pipeline with semantic chunking and vector search over 5,000+ indexed document chunks
-
-
-## 🤖 What I'm working on
-
-Building **AI Agent & Multi-Agent systems** — designing autonomous
-workflows, tool-use pipelines, and orchestrated agent frameworks
-that solve real-world problems.
 
 ---
 
@@ -40,14 +42,8 @@ that solve real-world problems.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dattang12&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattang12&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 🏢 Organizations
 
@@ -61,6 +57,8 @@ that solve real-world problems.
   </a>
   &nbsp;
 </p>
+
+---
 
 ## 📫 Connect with me
 
