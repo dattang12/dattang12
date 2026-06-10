@@ -3,9 +3,17 @@
 CS student at **San Jose State University** building full-stack intelligent AI systems.
 Currently seeking internships in **Software Engineering** or **AI Engineering**.
 
-I am happy to relocate to everywhere if I have opportunities :)
-
 ---
+## 🔑 Key Projects
+
+- **🏆 Top 3 Finalist – ApplyWisely**: AI-powered job application tracker that extracts job details from screenshots using Gemini 2.0 Flash and auto-updates statuses via Gmail Agent
+
+- **JobMatching**: Semantic job matching engine using OpenAI embeddings + LangChain RAG pipeline, processing 750+ real listings via Adzuna API
+
+- **NemotronIQ**: Multi-agent company intelligence system — 5 autonomous agents deliver BUY/HOLD/SELL decisions in 30 seconds
+
+- **InsightRAG**: Hierarchical RAG pipeline with semantic chunking and vector search over 5,000+ indexed document chunks
+
 
 ## 🤖 What I'm working on
 
