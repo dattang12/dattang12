@@ -41,9 +41,10 @@ that solve real-world problems.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattang12&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dattang12&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</p>
+## 🏢 Organizations
+
+[![Leechyapporg](https://img.shields.io/badge/Leechyapporg-181717?style=flat&logo=github&logoColor=white)](https://github.com/Leechyapporg)
+[![MyRecommendation](https://img.shields.io/badge/MyRecommendation-181717?style=flat&logo=github&logoColor=white)](https://github.com/MyRecommendation)
 
 ## 📫 Connect with me
 
