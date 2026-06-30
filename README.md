@@ -58,7 +58,7 @@ that solve real-world problems.
   </a>
   &nbsp;
   <a href="https://github.com/MyRecommendation">
-    <img src="https://avatars.githubusercontent.com/MyRecommendation" width="50" height="50" style="border-radius:50%" alt="MyRecommendation"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/033/293/988/non_2x/navigation-icon-illustration-blue-color-illustration-design-free-vector.jpg" width="50" height="50" style="border-radius:50%" alt="MyRecommendation"/>
   </a>
   &nbsp;
 </p>
