@@ -49,6 +49,10 @@ that solve real-world problems.
 ## 🏢 Organizations
 
 <p>
+  <a href="https://github.com/Project-Originalis">
+    <img src="https://avatars.githubusercontent.com/Project-Originalis" width="50" height="50" style="border-radius:50%" alt="MyRecommendation"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/Leechyapporg">
     <img src="https://avatars.githubusercontent.com/Leechyapporg" width="50" height="50" style="border-radius:50%" alt="Leechyapporg"/>
   </a>
