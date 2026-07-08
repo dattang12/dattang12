@@ -16,7 +16,7 @@ that solve real-world problems.
 ## 🔑 Key Projects
 
 - **🏆 Top 3 Finalist at Stanford x GoogleDeepmind Hackathon 2026 – ApplyWisely**: AI-powered job application tracker that extracts job details from screenshots using Gemini 2.0 Flash and auto-updates statuses via Gmail Agent
-- **🏆 Top 4 Finalist at IBM Ethical AI Hackathon 2025 – EthicsLens**: AI-powered document ethics analyzer built on IBM watsonx that scans documents for bias, fairness violations, and ethical risks using Granite LLM with explainable compliance scoring
+- **🏆 Top 2 Finalist at IBM Ethical AI Hackathon 2025 – EthicsLens**: AI-powered document ethics analyzer built on IBM watsonx that scans documents for bias, fairness violations, and ethical risks using Granite LLM with explainable compliance scoring
 
 - **JobMatching**: Semantic job matching engine using OpenAI embeddings + LangChain RAG pipeline, processing 750+ real listings via Adzuna API
 
