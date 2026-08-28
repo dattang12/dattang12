@@ -63,6 +63,11 @@ that solve real-world problems.
 
 ---
 
+## 🌱 Open Source Contributions
+
+- **[traceroot](https://github.com/traceroot-ai/traceroot)** — Open-source observability and self-healing layer for AI agents (⭐630+, YC S25)
+---
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattang12/)
