@@ -65,7 +65,7 @@ that solve real-world problems.
 
 ## 🌱 Open Source Contributions
 
-- **[traceroot-ai](https://github.com/traceroot-ai/traceroot)** — Open-source observability and self-healing layer for AI agents (⭐630+, YC S25)
+- **[traceroot-ai](https://github.com/traceroot-ai/traceroot)** — Open-source observability and self-healing layer for AI agents (YC S25)
 ---
 
 ## 📫 Connect with me
