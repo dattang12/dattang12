@@ -17,7 +17,7 @@ that solve real-world problems.
 
 - **🏆 Top 3 Finalist at Stanford x GoogleDeepmind Hackathon 2026 – ApplyWisely**: AI-powered job application tracker that extracts job details from screenshots using Gemini 2.0 Flash and auto-updates statuses via Gmail Agent
 - **🏆 Top 2 Finalist at IBM Ethical AI Hackathon 2025 – EthicsLens**: AI-powered document ethics analyzer built on IBM watsonx that scans documents for bias, fairness violations, and ethical risks using Granite LLM with explainable compliance scoring
--  **GreenChecker**: Autonomous GitHub issue-fixing agent with sandboxed test verification!!!
+-  **⭐ GreenChecker**: Autonomous GitHub issue-fixing agent with sandboxed test verification!!!
 - **Structured-Extraction-Eval**: LoRA fine-tuning of Qwen2.5-0.5B for schema-conformant JSON extraction — FSM-constrained decoding via outlines, 2.16M trainable params (0.44% of model), 2×2 evaluation separating format compliance from correctness
 - **NemotronIQ**: Multi-agent company intelligence system — 5 autonomous agents deliver BUY/HOLD/SELL decisions in 30 seconds
 - **InsightRAG**: Hierarchical RAG pipeline with semantic chunking and vector search over 5,000+ indexed document chunks
