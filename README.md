@@ -48,7 +48,7 @@ that solve real-world problems.
 
 <p>
   <a href="https://github.com/Project-Originalis">
-    <img src="https://avatars.githubusercontent.com/Project-Originalis" width="50" height="50" style="border-radius:50%" alt="MyRecommendation"/>
+    <img src="https://avatars.githubusercontent.com/Project-Originalis" width="50" height="50" style="border-radius:50%" alt="Project-Originalis"/>
   </a>
   &nbsp;
   <a href="https://github.com/Leechyapporg">
@@ -57,6 +57,10 @@ that solve real-world problems.
   &nbsp;
   <a href="https://github.com/MyRecommendation">
     <img src="https://static.vecteezy.com/system/resources/previews/033/293/988/non_2x/navigation-icon-illustration-blue-color-illustration-design-free-vector.jpg" width="50" height="50" style="border-radius:50%" alt="MyRecommendation"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/IBM">
+    <img src="https://avatars.githubusercontent.com/IBM" width="50" height="50" style="border-radius:50%" alt="IBM"/>
   </a>
   &nbsp;
 </p>
