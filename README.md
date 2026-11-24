@@ -60,7 +60,7 @@ that solve real-world problems.
   </a>
   &nbsp;
   <a href="https://github.com/IBM">
-    <img src="https://avatars.githubusercontent.com/IBM" width="50" height="50" style="border-radius:50%" alt="IBM"/>
+    <img src="https://github.com/IBM.png" width="50" height="50" style="border-radius:50%" alt="IBM"/>
   </a>
   &nbsp;
 </p>
